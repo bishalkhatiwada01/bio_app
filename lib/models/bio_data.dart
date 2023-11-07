@@ -20,6 +20,6 @@ final BioDataModel userBio = BioDataModel(
   name: 'Bishal Khatiwada',
   role: 'Flutter Developer',
   imageUrl: "images/pp.jpeg",
-  bio:
-      '''Currently pursuing a Bachelor of Computer Science at Sunway College Kathmandu. Joining an IT company as an intern and applying gained knowledge and skills to real-world projects, as well as learning more about the industry and gaining valuable experience that will benefit building a career in the eld of computer science''',
+  bio: '''
+I am currently pursuing a Bachelor's degree in Computer Science at Sunway College Kathmandu. I look forward to applying my academic knowledge and skills to real-world projects. I hope to gain valuable industry experience and insights that will benefit my future career in computer science. I aim to make the most of this opportunity by being proactive, networking, learning from professionals, and building my technical skills. The industry exposure and project work during my studies will equip me with practical skills and experience that I can leverage in my future roles in the tech industry.''',
 );
